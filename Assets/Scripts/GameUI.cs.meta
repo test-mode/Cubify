@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a34cd39ce69e4bc4a9723aa72c352d5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Game_UI: {fileID: 5690350023257482304, guid: 123b59a33cd3d3743a7d092e8d49cda3, type: 3}
+  - healthUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

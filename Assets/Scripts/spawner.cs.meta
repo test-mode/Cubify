@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: af0565414f4111f43adb8f54574af536
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fallingBlockPrefab: {fileID: 3696566468454973525, guid: 9039e827427156e4c9b81890f9bb3ffe, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
